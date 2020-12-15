@@ -3,4 +3,4 @@ Resolusi bulan desember 2020
 -bereksperimen dengan bootstrap dan materialize
 -menyelesaikan pelajaran git-hub dan git
 -menyelesaikan pelajaran php dasar
--dan melakukan praktek pada materi php dasar
+-praktek membuat halaman login dan tabel profil pada php
