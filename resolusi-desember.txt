@@ -1,0 +1,4 @@
+Resolusi bulan desember 2020
+-menyelesaikan pelajaran framework bootstrap dan materialize css
+-bereksperimen dengan bootstrap dan materialize
+-menyelesaikan pelajaran git-hub dan git
