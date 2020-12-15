@@ -2,3 +2,5 @@ Resolusi bulan desember 2020
 -menyelesaikan pelajaran framework bootstrap dan materialize css
 -bereksperimen dengan bootstrap dan materialize
 -menyelesaikan pelajaran git-hub dan git
+-menyelesaikan pelajaran php dasar
+-dan melakukan praktek pada materi php dasar
