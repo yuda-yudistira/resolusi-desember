@@ -4,8 +4,7 @@ RENCANA AWAL TAHUN 2021
  *dengan GNS3 simulator
  *atau dengan CISCO packet tracer
 -Belajar kriptografi
-*dengan bahasa bash di interface CLI
-*menggunakan cmd atau terminal
-*download linux di virtual machine
+*dengan bahasa bash di cmd atau di terminal di virtual machine
 -Belajar attacking website
  *dengan aplikasi wwbsite DVWA
+ *cari channel youtube sebagai sumber belajar
