@@ -6,5 +6,6 @@ RENCANA AWAL TAHUN 2021
 -Belajar kriptografi
 *dengan bahasa bash di interface CLI
 *menggunakan cmd atau terminal
+*download linux di virtual machine
 -Belajar attacking website
  *dengan aplikasi wwbsite DVWA
