@@ -1,5 +1,8 @@
 RENCANA AWAL TAHUN 2021
 
 -Belajar jaringan internet
+ *dengan GNS3 simulator
 -Belajar kriptografi
+*dengan bahasa bash di interface CLI
 -Belajar attacking website
+ *dengan aplikasi wwbsite DVWA
