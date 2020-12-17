@@ -1,6 +1,6 @@
 RENCANA AWAL TAHUN 2021
 
--Belajar jaringan internet
+-Belajar network computer
  *dengan GNS3 simulator
  *atau dengan CISCO packet tracer
 -Belajar kriptografi
